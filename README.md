@@ -1,4 +1,5 @@
 # treasure-hunt-2-mai
+[![Netlify Status](https://api.netlify.com/api/v1/badges/3dcddae5-859c-4a77-90bb-2f829f28bf82/deploy-status)](https://app.netlify.com/sites/checkpointstadion/deploys)
 <!DOCTYPE html>
 <html lang="ro">
 <head>
